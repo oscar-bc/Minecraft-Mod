@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "snowy=false": [
+      { "model": "oscarmati:block/psmum_grass" },
+      { "model": "oscarmati:block/psmum_grass", "y": 90 },
+      { "model": "oscarmati:block/psmum_grass", "y": 180 },
+      { "model": "oscarmati:block/psmum_grass", "y": 270 }
+    ],
+    "snowy=true":  { "model": "block/grass_block_snow" }
+  }
+}

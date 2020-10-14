@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oscarmati:blocks/remite_ore_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "oscarmati:dillium"
+    }
+  },
+  "result": {
+    "item": "oscarmati:dillium_block"
+  }
+}

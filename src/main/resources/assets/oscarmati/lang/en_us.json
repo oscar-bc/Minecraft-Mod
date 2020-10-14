@@ -1,0 +1,32 @@
+{
+  "item.oscarmati.dillium": "Raw Dillium",
+  "item.oscarmati.dillium_ingot": "Dillium Ingot",
+  "item.oscarmati.dillium_orb": "Magic Dillium Orb",
+  "block.oscarmati.dillium_ore_block": "Dillium Ore",
+  "block.oscarmati.dillium_block": "Block of Raw Dillium",
+  "block.oscarmati.dillium_ingot_block": "Block of Dillium",
+
+  "item.oscarmati.dillium_sword": "Dillium Sword",
+  "item.oscarmati.dillium_shovel": "Dillium Shovel",
+  "item.oscarmati.dillium_axe": "Dillium Axe",
+  "item.oscarmati.dillium_pickaxe": "Dillium Pickaxe",
+  "item.oscarmati.dillium_hoe": "Dillium Hoe",
+  "item.oscarmati.dillium_staff": "Staff of Lightning",
+
+  "item.oscarmati.dillium_helmet": "Dillium Helmet",
+  "item.oscarmati.dillium_chestplate": "Dillium Chestplate",
+  "item.oscarmati.dillium_leggings": "Dillium Leggings",
+  "item.oscarmati.dillium_boots": "Dillium Boots",
+
+  "item.oscarmati.remite": "Remite",
+  "block.oscarmati.remite_ore_block": "Remite Ore",
+
+  "block.oscarmati.dilly_planks": "Dilly Planks",
+  "block.oscarmati.dilly_log": "Dilly Log",
+  "block.oscarmati.dilly_sapling": "Dilly Sapling",
+  "block.oscarmati.dilly_leaves": "Dilly Leaves",
+  "block.oscarmati.psmum_grass": "PSMum Grass",
+
+  "item.oscarmati.steak_sandwich": "Steak Sandwich",
+  "itemGroup.oscarmatiTab": "OscarMati"
+}

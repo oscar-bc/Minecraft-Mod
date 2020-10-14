@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "oscarmati:blocks/dilly_log_top",
+    "side": "oscarmati:blocks/dilly_log"
+  }
+}

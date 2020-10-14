@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "oscarmati:blocks/dilly_sapling"
+  }
+}

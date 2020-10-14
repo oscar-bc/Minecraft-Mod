@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "oscarmati:dillium_ingot"
+    }
+  },
+  "result": {
+    "item": "oscarmati:dillium_pickaxe"
+  }
+}

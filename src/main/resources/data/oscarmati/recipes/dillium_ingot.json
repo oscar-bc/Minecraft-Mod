@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "oscarmati:dillium"
+  },
+  "result": "oscarmati:dillium_ingot",
+  "experience": 1.0,
+  "cookingtime": 400
+}

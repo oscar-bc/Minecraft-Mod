@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "oscarmati:block/dilly_log" },
+    "axis=z":   { "model": "oscarmati:block/dilly_log", "x": 90 },
+    "axis=x":   { "model": "oscarmati:block/dilly_log", "x": 90, "y": 90 }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gold_ingot",
+  "ingredients": [
+    {
+      "item": "oscarmati:dilly_log"
+    }
+  ],
+  "result": {
+    "item": "oscarmati:dilly_planks",
+    "count": 4
+  }
+}
